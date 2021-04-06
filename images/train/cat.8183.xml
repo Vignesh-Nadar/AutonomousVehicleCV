@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cat.8183.jpg</filename>
+	<path>/Users/vigneshnadar/Desktop/Mentorship/cats/train/cat.8183.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>399</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>9</ymin>
+			<xmax>354</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

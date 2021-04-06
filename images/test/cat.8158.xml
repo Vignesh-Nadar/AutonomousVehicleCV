@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>cat.8158.jpg</filename>
+	<path>/Users/vigneshnadar/Desktop/Mentorship/cats/test/cat.8158.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>425</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>4</ymin>
+			<xmax>412</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>
